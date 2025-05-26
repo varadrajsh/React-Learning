@@ -1,6 +1,14 @@
+import Varad from './MyFile';
+
+
 function App() {
   return (
-  <h1>Varadraj S H</h1>
+   <>
+   <Varad/>
+   <h1>Varadraj S H</h1>
+   </>
+  
+  
   );
 }
 
