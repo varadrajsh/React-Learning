@@ -7,6 +7,7 @@ function App() {
     <>
     <Varad/>
     <h1>This Is testing</h1>
+    <p>Hi This is also testing</p>
     </>
    
   )
