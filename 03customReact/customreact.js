@@ -13,7 +13,7 @@ const reactElement = {
         href: 'https://www.google.com',
         target:'_blank'
     },
-    children:'Click to open Google Website 2-1' 
+    children:'Click to open Google Website' 
 }
 
 const mainContainer = document.querySelector('#root')
